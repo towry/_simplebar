@@ -1,4 +1,4 @@
 [submodule "widgets/simple-bar"]
 	path = widgets/simple-bar
-	url = https://github.com/Jean-Tinland/simple-bar
+	url = git@github.com:Jean-Tinland/simple-bar.git
 	branch = master
